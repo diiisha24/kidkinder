@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #DD7B09;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -41,7 +41,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+.achievement-card{
+  height: 300px;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
